@@ -1,4 +1,4 @@
-var underscorePath = require.resolve('underscore');
+var underscorePath = require.resolve('underscore-contrib/node_modules/underscore');
 var lodashPath = require.resolve('lodash/dist/lodash');
 var cache = require.cache;
 var lodash = require(lodash);
