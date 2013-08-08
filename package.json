@@ -1,6 +1,6 @@
 {
   "name": "lodash-contrib",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Merges underscore-contrib with lodash.",
   "main": "index.js",
   "scripts": {
