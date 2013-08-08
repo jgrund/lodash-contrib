@@ -1,0 +1,26 @@
+{
+  "name": "lodash-contrib",
+  "version": "0.0.0",
+  "description": "Merges underscore-contrib with lodash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgrund/lodash-contrib"
+  },
+  "keywords": [
+    "lodash",
+    "lodash-contrib"
+  ],
+  "author": "Joe Grund",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgrund/lodash-contrib/issues"
+  },
+  "dependencies": {
+    "lodash": "~1.3.1",
+    "underscore-contrib": "~0.1.4"
+  }
+}
